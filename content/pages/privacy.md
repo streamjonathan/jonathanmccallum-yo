@@ -8,7 +8,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
 
-If you need to ask about anything on this page, the way to reach Jonathan is a message on [Instagram](https://www.instagram.com/jonamccallum) or [Threads](https://www.threads.com/@jonamccallum).
+Tí o bá nílò láti béèrè nípa ohunkóhun lórí ojú-ìwé yìí, tàbí nípa dátà ara ẹni rẹ, kọ̀wé sí Jonathan ní <a href="#" data-contact-email data-contact-email-text>Fi ímeèlì ránṣẹ́ sí mi</a>. O tún lè fi ìfiranṣẹ́ ránṣẹ́ sí i lórí [Instagram](https://www.instagram.com/jonamccallum) tàbí [Threads](https://www.threads.com/@jonamccallum).
 
 ## The chat: "Interact with Jonathan's writing"
 
@@ -20,7 +20,7 @@ When you type a question, it is sent to Cloudflare — the company that hosts th
 
 ## Leave a note
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. If you would like a reply, message him on social media instead.
+Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. Tí o bá fẹ́ ìdáhùn, kọ̀wé sí i ní <a href="#" data-contact-email data-contact-email-text>Fi ímeèlì ránṣẹ́ sí mi</a> tàbí fi ìfiranṣẹ́ ránṣẹ́ lórí ẹ̀rọ ayélujára àwùjọ.
 
 ## What is not collected
 

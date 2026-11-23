@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Ojú òpó yìí kò fún àwọn ènìyàn tí wọn kò tíì pé ọmọ ọdún 18. Ó ń sọ̀rọ̀ nípa ìgbàgbọ́ nínú Jésù, èyí sì jẹ́ ọ̀rọ̀ ẹ̀sìn, nítorí náà a kọ ọ́ fún àwọn àgbàlagbà. Bí o bá kò tíì pé ọmọ ọdún 18, jọ̀wọ́ má ṣe pín ìsọfúnni ara ẹni rẹ níbí, kí o sì má ṣe kọ̀wé sí Jonathan.
+
+Ní Spain, òfin sọ pé ọmọdé tí kò tíì pé ọmọ ọdún 14 nílò ìfọwọ́sowọ́pọ̀ òbí tàbí alábòójútó kí ó tó pín dátà ara ẹni lórí ìkànnì ayélujára. Òfin ojú òpó yìí fúnra rẹ̀ le ju èyí lọ: bí o bá kò tíì pé ọmọ ọdún 18, ojú òpó yìí kò fún ọ.
 
 ## Changes
 

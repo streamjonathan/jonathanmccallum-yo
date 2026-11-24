@@ -3,7 +3,7 @@ title: "Orin àti Ìgbàgbọ́"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/okopi_peterson.jpg
 ---
 
 Mo ń lo àkókò púpọ̀ láti gbọ́ àwọn akọrin lórí Instagram. Àwọn kan nínú wọn tí mo ti ń gbọ́ lẹ́yìn yìí ni wọ̀nyí.
@@ -14,70 +14,68 @@ Paulu ṣe nǹkan bí èyí ní Athens. Ó lo ẹ̀wì àti èdè wọn, bí w�
 
 Wọn kì í kọrin ìsìn gbogbo. Ọ̀pọ̀lọpọ̀ nínú wọn ń kọrin nípa ìyè nìkan, ìgbàgbọ́ sì jẹ́ apá rẹ̀. Èyí ni ohun tí mo fẹ́ràn nípa wọn. Tẹ káàdì láti wo orin náà lórí Instagram.
 
-Mo tún ṣe fídíò ìdáhùn sí orin tuntun SonReal. Ìwọ lè wo ó níbí:
-
-[Ìdáhùn mi sí fídíò tuntun SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+Àwọn orin wọ̀nyí wà ní èdè Yorùbá. Àwọn akọ̀rin wọ̀nyí ni wọ́n ŋọ́rin ní èdè Yorùbá — àwọn kan ŋọ́rin ìsìn, àwọn kan ŋọ́rin nípa ìyè, ìgbàgbọ́ sì jẹ́ apá rẹ̀.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Rap aládùn, tó ní ìrètí nípa mímọ orin tó dára nígbà tí ìwọ bá gbọ́ ọn. Má ṣe ṣe ìdájọ́ ìwé ní ìbòjú rẹ̀.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DJYl8zBCPu2/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/okopi_peterson.jpg" alt="Peterson Okopi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Peterson Okopi</span>
+<span class="ig-card__note">Orin ìsìn ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“Èmi yóò fi ìjókòó kan pamọ́ fún ọ.” Orin tútù, àti àga tó ṣí.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgCrbc5usqj/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/tope_alabi_.jpg" alt="Tope Alabi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Tope Alabi</span>
+<span class="ig-card__note">Orin nípa ìyè àti ìgbàgbọ́ ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Orin rẹ̀ “Notice” ti jáde ní ìkẹyìn, ju ọdún kan lọ lẹ́yìn tí ó kọ́kọ́ kọ orin náà.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgF9-rkx_iA/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/adeyinkaalaseyori.jpg" alt="Adeyinka Alaseyori" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Adeyinka Alaseyori</span>
+<span class="ig-card__note">Orin ìyìn fún Jésù ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — orin folk lo-fi láti Àríwá, òtítọ́, tó ti lo, tó sì jẹ́ aláìlẹ́gbẹ́.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgHJ6cXuDZK/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bekesbukola.jpg" alt="Bukola Bekes" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bukola Bekes</span>
+<span class="ig-card__note">Orin ìsìn ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">Ó fi ìyè rẹ̀ fún Ọlọ́run ní ọdún tó kọjá. Nísinsìnyí ó fẹ́ sọ ìtàn rẹ̀, kí ó sì yin Ọlọ́run nínú ìlànà náà.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfxmdO1Ontt/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/abbey_ojomu.jpg" alt="Abbey Ojomu" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Abbey Ojomu</span>
+<span class="ig-card__note">Orin nípa ìyè àti ìgbàgbọ́ ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Orin tuntun rẹ̀ “Not Alone”, àti yàrá kan ní San Francisco tó ń kọ gbogbo ọ̀rọ̀.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgEg2y_C8-P/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/nathanielblow.jpg" alt="Nathaniel Bassey" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Nathaniel Bassey</span>
+<span class="ig-card__note">Orin ìyìn fún Jésù ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — àwọn ọjọ́ ìgbà èwe lẹ́yìn ṣọ́ọ̀ṣì, àwọn agogo ìrọ̀lẹ́, àwọn ọ̀rẹ́ tó dára jùlọ àti àwọn ayé ìròyìn.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgF3kVpoiJS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/officialjudikay.jpg" alt="Judikay" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Judikay</span>
+<span class="ig-card__note">Orin ìsìn ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Orin tuntun láti Luku 15, ọmọ onínàákúnà. “Let Me Go”.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgCXlLOPx_x/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/mercychinwo.jpg" alt="Mercy Chinwo" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Mercy Chinwo</span>
+<span class="ig-card__note">Orin nípa ìyè àti ìgbàgbọ́ ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“Jésù jẹ́ onínúure. Ìrìn àjò jẹ́ ẹ̀bùn.” Àwọn orin rẹ̀, tí a kọ nílé.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgFnG7aNEvj/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/dunsinoyekan.jpg" alt="Dunsin Oyekan" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Dunsin Oyekan</span>
+<span class="ig-card__note">Orin ìyìn fún Jésù ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Orin rẹ̀ “keep going” — orin Jésù retro tó dàbí àlá, ó ti jáde nísinsìnyí.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfrGZJ4CIqb/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/theophilussunday.jpg" alt="Theophilus Sunday" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Theophilus Sunday</span>
+<span class="ig-card__note">Orin ìsìn ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“Gbogbo ènìyàn mọ ẹnìkan tó nílò láti gbọ́ nípa Jésù.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgF0UBEoK3G/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bidemiolaoba.jpg" alt="Bidemi Olaoba" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bidemi Olaoba</span>
+<span class="ig-card__note">Orin nípa ìyè àti ìgbàgbọ́ ní èdè Yorùbá.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Àwọn orin nípa ìrìn àjò ìlera ọpọlọ rẹ̀. Àwọn náà sì jẹ́ pop punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dftzq3eMLe6/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/okikioluwalarami.jpg" alt="Okikioluwa Oladimeji" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Okikioluwa Oladimeji</span>
+<span class="ig-card__note">Orin ìyìn fún Jésù ní èdè Yorùbá.</span></span>
 </a>
 </div>
 

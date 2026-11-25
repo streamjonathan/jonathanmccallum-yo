@@ -22,6 +22,7 @@ eleventyExcludeFromCollections: true
 
 <section class="featured" data-fade aria-labelledby="featured-heading">
   <h2 id="featured-heading">Àwọn ìkọ̀ tuntun jùlọ</h2>
+  <p class="featured-row__hint">Àwọn ìkọ̀ tuntun míràn — swipe fún èyí tó kàn <span aria-hidden="true">→</span></p>
   <ul class="featured-row" data-auto-carousel>
   {% for post in collections.publishedPosts | reverse %}
     {% if loop.index <= 10 %}
@@ -55,6 +56,7 @@ eleventyExcludeFromCollections: true
 <hr class="rule-gold">
 <section class="watch-section" data-fade aria-labelledby="watch-heading">
   <h2 id="watch-heading">Wo</h2>
+  <p class="row-hint">Àwọn fídíò míràn — swipe fún èyí tó kàn <span aria-hidden="true">→</span></p>
   <ul class="watch-row">
   {% set shown = [] %}
   {% for post in collections.publishedPosts | reverse %}

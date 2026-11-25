@@ -351,3 +351,6 @@ button[type="submit"] {
 .cookie-banner__buttons button { padding: 0.6rem 1.5rem; border: 1px solid var(--line); border-radius: 0.75rem; font: 1rem system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--text); background: var(--field-bg); cursor: pointer; min-height: 2.75rem; }
 .cookie-banner__buttons button:hover { border-color: var(--link); }
 @media (min-width: 40rem) { .cookie-banner { left: 1rem; right: auto; bottom: 1rem; max-width: 32rem; border: 1px solid var(--line); border-radius: 0.75rem; } }
+
+/* Translation note shown at the top of article pages (also in the footer). */
+.translation-note--top { font-size: 0.9rem; color: var(--muted); margin: 0.5rem 0 0; }

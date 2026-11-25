@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Ìkọ̀kọ̀
 
-Ojú òpó yìí ni Jonathan McCallum ń ṣàkóso, ẹni tí ó ń gbé ní Getaria, Spain. Ojú òpó kékeré ti ara ẹni ni: àwọn ìkọ̀wé, àti ìbánisọ̀rọ̀ tí ó ń dáhùn láti inú àwọn ìkọ̀wé náà. Kò sí àkántì láti ṣẹ̀dá níbí, kò sí ìtọ́pasẹ̀, kò sí ìpolówó ọjà, kò sì sí ohun kan láti tà. Ó ń tẹ̀lé òfin ìkọ̀kọ̀ ti Yúróòpù (GDPR) fún gbogbo àwọn àlejò, níbikíbi tí o bá wà ní àgbáyé.
+Ojú òpó yìí ni Jonathan McCallum ń ṣàkóso, ẹni tí ó ń gbé ní Orílẹ̀-èdè Basque. Ojú òpó kékeré ti ara ẹni ni: àwọn ìkọ̀wé, àti ìbánisọ̀rọ̀ tí ó ń dáhùn láti inú àwọn ìkọ̀wé náà. Kò sí àkántì láti ṣẹ̀dá níbí, kò sí ìtọ́pasẹ̀, kò sí ìpolówó ọjà, kò sì sí ohun kan láti tà. Ó ń tẹ̀lé òfin ìkọ̀kọ̀ ti Yúróòpù (GDPR) fún gbogbo àwọn àlejò, níbikíbi tí o bá wà ní àgbáyé.
 
 Tí o bá nílò láti béèrè nípa ohunkóhun lórí ojú-ìwé yìí, tàbí nípa dátà ara ẹni rẹ, kọ̀wé sí Jonathan ní <a href="#" data-contact-email data-contact-email-text>Fi ímeèlì ránṣẹ́ sí mi</a>. O tún lè fi ìfiranṣẹ́ ránṣẹ́ sí i lórí [Instagram](https://www.instagram.com/jonamccallum) tàbí [Threads](https://www.threads.com/@jonamccallum).
 
